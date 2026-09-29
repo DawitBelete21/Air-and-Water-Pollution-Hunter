@@ -50,3 +50,10 @@ Future development will focus on expanding the number of environmental sensors, 
 
 **Project:** Air and Water Pollution Hunter  
 **Status:** Prototype and Testing
+## Final Project Submission
+
+📊 **[Download Final Presentation](https://github.com/DawitBelete21/Air-and-Water-Pollution-Hunter/releases/tag/v1.0)**
+
+🎥 **[Watch/Download Project Demonstration Video](https://github.com/DawitBelete21/Air-and-Water-Pollution-Hunter/releases/tag/v1.0)**
+
+All final project materials are available in the latest release.
